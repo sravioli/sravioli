@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Simone</h1>
+<h1 align="center">Hi, I'm Simon</h1>
 <h3 align="center">A college student who likes to write code</h3>
 
 - 🔭 I’m currently working on [dark-stylus](https://github.com/sRavioli/dark-stylus)
