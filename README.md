@@ -1,5 +1,5 @@
 
-# Hi, I'm Simone. Welcome to my GH profile
+# Hi, I'm Simone. Welcome to my profile
 
 I am a IT college student that enjoys coding and loves learning new things. I like to think I'm a curious person, maybe funny, kinda pragmatic, but I could be wrong
 
