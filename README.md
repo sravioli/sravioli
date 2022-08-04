@@ -47,10 +47,10 @@ Currently working on [Informatica.md](https://github.com/Informatica-md) and som
 
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=sRavioli&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="github stats"/>
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=sRavioli&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="github stats"/>
     </a>    
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sRavioli&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="top languages"/>
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sRavioli&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="top languages"/>
     </a>
 </p>
 
@@ -59,6 +59,6 @@ Currently working on [Informatica.md](https://github.com/Informatica-md) and som
 
 <p align="left">
     <a href="https://github.com/sRavioli/pythoncs">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sRavioli&repo=pythoncs&show_owner=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="repo card"/>
+        <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sRavioli&repo=pythoncs&show_owner=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="repo card"/>
     </a>
 </p>
