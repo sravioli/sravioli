@@ -7,7 +7,7 @@ I am a IT college student that enjoys coding and loves learning new things. I li
 ## My repos
 
 I'm using GitHub mainly to manage classes files, notes or other courses.
-Currently working on [Informatica.md](https://github.com/Informatica-md) and some other stuff.
+Currently working on some stuff.
 
 
 
