@@ -1,13 +1,5 @@
 
-# Hi
-
-I'm a college student that likes coding.
-
-## My repos
-
-I'm using GitHub mainly to manage classes files, notes or other courses.
-Currently working on some stuff.
-
+[![An image of @sravioli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sravioli)](https://holopin.io/@sravioli)
 
 ### My stats:
 
