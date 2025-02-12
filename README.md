@@ -5,7 +5,7 @@ I'm an Associate Product Software Engineer learning to become a proficient softw
 ## 🔧 Technologies & Tools
 
 - **Languages:** C#, Java, C, C++, Python, Lua
-- **Frameworks & Libraries:** .NET, ASP.NET, Spring Boot
+- **Frameworks & Libraries:** .NET, ASP.NET
 - **Databases:** MS SQL Server
 - **Tools & Platforms:** Docker, Git, GNU coreutils, Ripgrep, Visual Studio, Rider
 - **Other Skills:** Agile methodology, Test-driven development (TDD), CI/CD
