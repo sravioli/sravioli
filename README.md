@@ -4,18 +4,11 @@ I'm an Associate Product Software Engineer learning to become a proficient softw
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C#, Java, C, C++, Python, Lua
-- **Frameworks & Libraries:** .NET, ASP.NET
+- **Languages:** C#, C, C++, Python, Lua
+- **Frameworks & Libraries:** .NET, ASP.NET, .NET MAUI
 - **Databases:** MS SQL Server
-- **Tools & Platforms:** Docker, Git, GNU coreutils, Ripgrep, Visual Studio, Rider
+- **Tools & Platforms:** Git, Docker, GNU coreutils, Ripgrep, Visual Studio, Rider
 - **Other Skills:** Agile methodology, Test-driven development (TDD), CI/CD
-
-## 🌱 What I'm currently learning
-
-- Advanced Java and Spring Boot and its applications in enterprise projects.
-- Cloud architecture and microservices with a focus on Kubernetes.
-- Ansible for automation and configuration management.
-- Azure Pipelines for CI/CD.
 
 ## 📈 GitHub Stats
 
@@ -30,11 +23,6 @@ I'm an Associate Product Software Engineer learning to become a proficient softw
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
-## 📫 How to reach me
-
-- **Email:** <fsimone2002@pm.me>
-- **LinkedIn:** [Simone Fidanza](https://www.linkedin.com/in/simone-fidanza)
 
 ## 💼 Projects
 
