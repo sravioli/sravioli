@@ -6,14 +6,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sravioli&show_icons=true&theme=nightowl&show=reviews"
+    srcset="https://ghstats.dev/api/card?username=sravioli&theme=kanagawa&border_radius=15"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sravioli&show_icons=true&theme=buefy&show=reviews"
+    srcset="https://ghstats.dev/api/card?username=sravioli&bg=f2ecbc&text=545464&title_color=4d699b&icon_color=597b75&border_color=e4d794&border_radius=15"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=sravioli&show_icons=true" />
+  <img src="https://ghstats.dev/api/card?username=sravioli&theme=kanagawa&border_radius=15" alt="GitHub Stats Card" />
 </picture>
 
 ## Let's talk
