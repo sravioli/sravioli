@@ -49,14 +49,14 @@ Plugins I wrote for [my WezTerm config](https://github.com/sravioli/wezterm).
 
 <picture>
   <source
-    srcset="https://ghstats.dev/api/card?username=sravioli&theme=kanagawa&border_radius=15"
+    srcset="https://ghstats.dev/api/card?username=sravioli&hide_title=true&border_radius=18&hide=hours&theme=kanagawa&border_radius=15"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://ghstats.dev/api/card?username=sravioli&bg=f2ecbc&text=545464&title_color=4d699b&icon_color=597b75&border_color=e4d794&border_radius=15"
+    srcset="https://ghstats.dev/api/card?username=sravioli&hide_title=true&border_radius=18&hide=hours&bg=f2ecbc&text=545464&title_color=4d699b&icon_color=597b75&border_color=e4d794&border_radius=15"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://ghstats.dev/api/card?username=sravioli&theme=kanagawa&border_radius=15" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=sravioli&hide_title=true&border_radius=18&hide=hours&theme=kanagawa&border_radius=15" alt="GitHub Stats Card" />
 </picture>
 
 ## 💬 Let's talk
