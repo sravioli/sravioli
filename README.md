@@ -34,14 +34,19 @@ Plugins I wrote for [my WezTerm config](https://github.com/sravioli/wezterm).
 
 <br />
 
+- 🎨 [kanagawa.wz](https://github.com/sravioli/kanagawa.wz): kanagawa.nvim color schemes ported to WezTerm
 - 🎹 [chord.wz](https://github.com/sravioli/chord.wz): Vim-style key mapping and hints
 - 🏮 [lantern.wz](https://github.com/sravioli/lantern.wz): configurable selection menus
-- 🎀 [ribbon.wz](https://github.com/sravioli/ribbon.wz): styled text segments for the UI
+- 🚀 [warp.wz](https://github.com/sravioli/warp.wz): warp-speed utilities
 - 🔮 [sigil.wz](https://github.com/sravioli/sigil.wz): icons and identity colors for processes and tools
-- 🎨 [kanagawa.wz](https://github.com/sravioli/kanagawa.wz): kanagawa.nvim color schemes ported to WezTerm
+- 🎀 [ribbon.wz](https://github.com/sravioli/ribbon.wz): styled text segments for the UI
 - 🧠 [memo.wz](https://github.com/sravioli/memo.wz): memoization, caching and persistent state
 - 🪵 [log.wz](https://github.com/sravioli/log.wz): lightweight, pluggable logging
-- 🚀 [warp.wz](https://github.com/sravioli/warp.wz): warp-speed utilities
+- 🛡️ [warden.wz](https://github.com/sravioli/warden.wz): schema validation for plugins and config tables
+- ⭐ [stargaze.wz](https://github.com/sravioli/stargaze.wz): automatically star the plugins you use
+- 🧩 [mosaic.wz](https://github.com/sravioli/mosaic.wz): modular status bar engine with presets
+- ⚓ [harbor.wz](https://github.com/sravioli/harbor.wz): workspace picker and session save/restore
+- 🚨 [beacon.wz](https://github.com/sravioli/beacon.wz): non-blocking update notifications
 
 </details>
 
