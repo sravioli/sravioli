@@ -34,7 +34,7 @@ Plugins I wrote for [my WezTerm config](https://github.com/sravioli/wezterm).
 
 <br />
 
-- 🎨 [kanagawa.wz](https://github.com/sravioli/kanagawa.wz): kanagawa.nvim color schemes ported to WezTerm
+- 🎨 [kanagawa.wz](https://github.com/kanagawa-community/wezterm): kanagawa.nvim color schemes ported to WezTerm
 - 🎹 [chord.wz](https://github.com/sravioli/chord.wz): Vim-style key mapping and hints
 - 🏮 [lantern.wz](https://github.com/sravioli/lantern.wz): configurable selection menus
 - 🚀 [warp.wz](https://github.com/sravioli/warp.wz): warp-speed utilities
