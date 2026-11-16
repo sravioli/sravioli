@@ -38,15 +38,15 @@ Plugins I wrote for [my WezTerm config](https://github.com/sravioli/wezterm).
 - 🎹 [chord.wz](https://github.com/sravioli/chord.wz): Vim-style key mapping and hints
 - 🏮 [lantern.wz](https://github.com/sravioli/lantern.wz): configurable selection menus
 - 🚀 [warp.wz](https://github.com/sravioli/warp.wz): warp-speed utilities
-- 🔮 [sigil.wz](https://github.com/sravioli/sigil.wz): icons and identity colors for processes and tools
-- 🎀 [ribbon.wz](https://github.com/sravioli/ribbon.wz): styled text segments for the UI
-- 🧠 [memo.wz](https://github.com/sravioli/memo.wz): memoization, caching and persistent state
 - 🪵 [log.wz](https://github.com/sravioli/log.wz): lightweight, pluggable logging
-- 🛡️ [warden.wz](https://github.com/sravioli/warden.wz): schema validation for plugins and config tables
-- ⭐ [stargaze.wz](https://github.com/sravioli/stargaze.wz): automatically star the plugins you use
-- 🧩 [mosaic.wz](https://github.com/sravioli/mosaic.wz): modular status bar engine with presets
-- ⚓ [harbor.wz](https://github.com/sravioli/harbor.wz): workspace picker and session save/restore
+- 🧠 [memo.wz](https://github.com/sravioli/memo.wz): memoization, caching and persistent state
+- 🎀 [ribbon.wz](https://github.com/sravioli/ribbon.wz): styled text segments for the UI
+- 🔮 [sigil.wz](https://github.com/sravioli/sigil.wz): icons and identity colors for processes and tools
 - 🚨 [beacon.wz](https://github.com/sravioli/beacon.wz): non-blocking update notifications
+- ⚓ [harbor.wz](https://github.com/sravioli/harbor.wz): workspace picker and session save/restore
+- 🧩 [mosaic.wz](https://github.com/sravioli/mosaic.wz): modular status bar engine with presets
+- ⭐ [stargaze.wz](https://github.com/sravioli/stargaze.wz): automatically star the plugins you use
+- 🛡️ [warden.wz](https://github.com/sravioli/warden.wz): schema validation for plugins and config tables
 
 </details>
 
